@@ -22,4 +22,4 @@ This is a basic Tic Tac Toe game created to learn the fundamentals of web develo
 To set up this project on your local machine:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/SidrahAaishah/tic-tac-toe.git
